@@ -49,7 +49,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 📥 Banco de Dados
 
-- [SQL](https://drive.google.com/file/d/1NO1c9aECHgZGTMSOJv71RorXIk3bI41A/view?usp=sharing)
+- [SQL](banco.sql)
 
 ## JSON / XML
 
