@@ -1,8 +1,10 @@
-CREATE TABLE `client` (
+CREATE TABLE IF NOT EXISTS `client` (
 	`id` INT(10) NOT NULL AUTO_INCREMENT,
 	`name` VARCHAR(150) NOT NULL COLLATE 'utf8mb4_0900_ai_ci',
 	PRIMARY KEY (`id`) USING BTREE
 ) ENGINE=InnoDB;
+
+DELETE FROM client;
 
 INSERT INTO `client` (`id`, `name`) VALUES (1, 'Josefa Alice Melissa Oliveira');
 INSERT INTO `client` (`id`, `name`) VALUES (2, 'Luiza Letícia');

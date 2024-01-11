@@ -1,4 +1,4 @@
-CREATE TABLE `product` (
+CREATE TABLE IF NOT EXISTS `product` (
 	`id` INT(10) NOT NULL AUTO_INCREMENT,
 	`client_id` INT(10) NOT NULL,
 	`code` INT(10) NOT NULL,

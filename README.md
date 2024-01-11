@@ -6,6 +6,10 @@
 	🚧 Desenvolvedor Java/Web 🚀 Concluido...  🚧
 </h4>
 
+## Descrição
+
+O projeto foi criado para plaitear a vaga de desenvolvedor Java/Web. O projeto possuí o Flyway, o que significa que ao levantar o projeto ele irá automáticamente criar o banco de dados e as tabelas, mas caso queira fazer isso separadamente eu estarei disponibilizando o SQL ao final deste documento.
+
 ## ✅ Funções
 
 ### End-Points de Clientes
@@ -39,4 +43,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## Documentação da API
 
-`http://localhost:8080/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config`
+    http://localhost:8080/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config
+
+<b>OBS:<b> <p style="color: red"> Acesse a documentação após iniciar o projeto e na porta desejada.</p>
+
+## 📥 Banco de Dados
+
+- [SQL](https://drive.google.com/file/d/1NO1c9aECHgZGTMSOJv71RorXIk3bI41A/view?usp=sharing)
+
+## JSON / XML
+
+- Os arquivos para testes XML e JSON estão na pasta `/src/test` nomedos respectiviamentes de `file.json` e `file.xml`
