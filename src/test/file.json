@@ -1,0 +1,112 @@
+[
+  {
+    "client": {
+      "id": 1,
+      "name": "string"
+    },
+    "name": "string",
+    "value": 100,
+    "quantity": 11,
+    "code": 0,
+    "date": "2023-12-10T21:07:20.359Z"
+  },
+  {
+    "client": {
+      "id": 2,
+      "name": "string"
+    },
+    "name": "string",
+    "value": 100,
+    "quantity": 6,
+    "code": 1,
+    "date": "2023-12-10T21:07:20.359Z"
+  },
+  {
+    "client": {
+      "id": 3,
+      "name": "string"
+    },
+    "name": "string",
+    "value": 0,
+    "quantity": 0,
+    "code": 2,
+    "date": "2023-12-10T21:07:20.359Z"
+  },
+  {
+    "client": {
+      "id": 4,
+      "name": "string"
+    },
+    "name": "string",
+    "value": 0,
+    "quantity": 0,
+    "code": 3,
+    "date": "2023-12-10T21:07:20.359Z"
+  },
+  {
+    "client": {
+      "id": 5,
+      "name": "string"
+    },
+    "name": "string",
+    "value": 0,
+    "quantity": 0,
+    "code": 4,
+    "date": "2023-12-10T21:07:20.359Z"
+  },
+  {
+    "client": {
+      "id": 6,
+      "name": "string"
+    },
+    "name": "string",
+    "value": 0,
+    "quantity": 0,
+    "code": 5,
+    "date": "2023-12-10T21:07:20.359Z"
+  },
+  {
+    "client": {
+      "id": 7,
+      "name": "string"
+    },
+    "name": "string",
+    "value": 0,
+    "quantity": 0,
+    "code": 6,
+    "date": "2023-12-10T21:07:20.359Z"
+  },
+  {
+    "client": {
+      "id": 8,
+      "name": "string"
+    },
+    "name": "string",
+    "value": 0,
+    "quantity": 0,
+    "code": 7,
+    "date": "2023-12-10T21:07:20.359Z"
+  },
+  {
+    "client": {
+      "id": 9,
+      "name": "string"
+    },
+    "name": "string",
+    "value": 0,
+    "quantity": 10,
+    "code": 8,
+    "date": "2023-12-10T21:07:20.359Z"
+  },
+  {
+    "client": {
+      "id": 10,
+      "name": "string"
+    },
+    "name": "string",
+    "value": 0,
+    "code": 9,
+    "quantity": null,
+    "date": null
+  }
+]

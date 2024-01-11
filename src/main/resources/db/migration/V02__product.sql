@@ -1,5 +1,5 @@
 CREATE TABLE `product` (
-	`id` INT(10) NOT NULL,
+	`id` INT(10) NOT NULL AUTO_INCREMENT,
 	`client_id` INT(10) NOT NULL,
 	`code` INT(10) NOT NULL,
 	`name` VARCHAR(100) NOT NULL COLLATE 'utf8mb4_0900_ai_ci',
