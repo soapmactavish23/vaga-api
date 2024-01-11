@@ -45,7 +45,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
     http://localhost:8080/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config
 
-<b>OBS:<b> <p style="color: red"> Acesse a documentação após iniciar o projeto e na porta desejada.</p>
+<p>🚧 OBS: Acesse a documentação após iniciar o projeto e na porta desejada. 🚧</p>
 
 ## 📥 Banco de Dados
 
