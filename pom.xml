@@ -52,6 +52,13 @@
 			<artifactId>flyway-core</artifactId>
 			<scope>runtime</scope>
 		</dependency>
+		
+		<!-- OpenAPI -->
+		<dependency>
+			<groupId>org.springdoc</groupId>
+			<artifactId>springdoc-openapi-ui</artifactId>
+			<version>1.5.2</version>
+		</dependency>
 
 		<!-- mysql -->
 		<dependency>
