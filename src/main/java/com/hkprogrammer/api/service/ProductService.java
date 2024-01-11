@@ -36,7 +36,6 @@ public class ProductService {
 		
 		if (file.getOriginalFilename().endsWith(".json")) {
 			list = parseJsonFile(file);
-			System.out.println(list);
 		} else if (file.getOriginalFilename().endsWith(".xml")) {
 			list = parseXmlFile(file);
 		} else {
